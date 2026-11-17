@@ -1,4 +1,4 @@
 Repositorio de pruebas ASPECTOS DE COMPUTACION
-'''python
+```python
 print("hola")
-'''
+```
